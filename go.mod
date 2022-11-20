@@ -1,4 +1,4 @@
-module github.com/jroimartin/gocui
+module github.com/wanghongfei/gocui-chinese
 
 go 1.16
 
