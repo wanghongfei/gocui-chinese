@@ -2,6 +2,8 @@
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/jroimartin/gocui.svg)](https://pkg.go.dev/github.com/jroimartin/gocui)
 
+gocui库2021.8.15提交的版本整合了民间中文补丁;
+
 Minimalist Go package aimed at creating Console User Interfaces.
 
 ## Features
@@ -21,7 +23,7 @@ Minimalist Go package aimed at creating Console User Interfaces.
 Execute:
 
 ```
-$ go get github.com/jroimartin/gocui
+$ go get github.com/wanghongfei/gocui-chinese
 ```
 
 ## Documentation
